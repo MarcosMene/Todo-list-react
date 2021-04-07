@@ -1,0 +1,11 @@
+.navbar {
+  max-width: 1000px;
+  display: flex;
+  background-color: rgba(231, 192, 82, 0.76);
+  padding: 8px;
+  color: rgb(20, 20, 20);
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
